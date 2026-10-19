@@ -1,7 +1,11 @@
-# CPP_Programming
+# CPP Programming
 
-College programming assignments and classwork.
+This repository contains my C++ programming practice.
 
-## Structure
-- Assignments: Assignment-wise programs
-- Classwork: Day-wise practice programs
+## Assignments
+- Assignment 1
+- Assignment 2
+
+## Classwork
+- Day 01
+- Day 02
